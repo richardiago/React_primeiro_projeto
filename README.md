@@ -1,4 +1,4 @@
-Primeiro projeto em React baseado neste vídeo(https://www.youtube.com/watch?v=ErjWNvP6mko)
+Primeiro projeto em React baseado neste vídeo[https://www.youtube.com/watch?v=ErjWNvP6mko]
 
 - Para instalar dependencias: npm install
 - Para rodar npm start
